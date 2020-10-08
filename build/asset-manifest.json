@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/static/js/duda-widget.js",
+    "main.js.map": "/static/js/duda-widget.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.3a996293f17fed9b1f18d08e1bd8368b.js": "/precache-manifest.3a996293f17fed9b1f18d08e1bd8368b.js",
+    "service-worker.js": "/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/duda-widget.js"
+  ]
+}
